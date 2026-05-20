@@ -1,6 +1,12 @@
 {
-	"name": "Qriiltoo",
-	"description": "WhatsApp Bot Using Lib Baileys",
-	"repository": "https://github.com/Qriiltoo/Proyek-epic-wa",
-	"keywords": ["whatsapp-bot", "multi-device", "bot", "whatsapp"]
+  "name": "bot-rpg-wa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    ...
+  }
 }
